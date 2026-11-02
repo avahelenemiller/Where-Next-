@@ -11,6 +11,7 @@ Users select their:
 - Preferred climate
 - Holiday style
 - Activities 
+
 The application then compares these preferences against a list of destinations and recommends the destination with the highest match score.
 
 Technologies Used
